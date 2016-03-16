@@ -25,10 +25,6 @@ include __DIR__ . '/vendor/autoload.php';
 
 use Mautic\Auth\ApiAuth;
 
-$publicKey = ''; 
-$secretKey = ''; 
-$callback  = ''; 
-
 // ApiAuth::initiate will accept an array of OAuth settings
 $settings = array(
     'baseUrl'          => '',       // Base URL of the Mautic instance
