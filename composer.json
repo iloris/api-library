@@ -1,5 +1,6 @@
 {
   "name": "mautic/api-library",
+  "version": "1.0",
   "license": "MIT",
   "type": "library",
   "description": "Mautic API Connector Library",
